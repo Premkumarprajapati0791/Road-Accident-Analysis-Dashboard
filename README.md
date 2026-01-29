@@ -10,6 +10,10 @@ vehicle involvement, road conditions, lighting, weather, and area type using an 
 - Analyze trends over time
 - Support data-driven road safety insights
 
+## screenshot here
+![Dashboard Preview](screenshots/dashboard_overview.png)
+
+
 ## Tools & Technologies 
 - Power Query (ETL & data cleaning)
 - DAX (KPIs & measures)
